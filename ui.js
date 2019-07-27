@@ -1,6 +1,5 @@
 const menu = document.getElementsByTagName("nav")[0];
 const menuItems = menu.getElementsByTagName("a");
-const menuLink = document.getElementById("menuLink");
 
 function isScrolledIntoView(el) {
   const rect = el.getBoundingClientRect();
