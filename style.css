@@ -37,13 +37,13 @@ header {
 
   font-family: "Playfair Display", serif;
   font-size: min(2vw, 24px);
-  font-style: italic;
 }
 
 header h1 {
   margin: 0.2em 0;
   font-size: 3em;
   font-weight: 300;
+  font-style: italic;
 }
 header h2 {
   font-weight: 300;
