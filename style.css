@@ -31,7 +31,7 @@ section p {
 header {
   margin: 0;
   color: #ddd;
-  background: rgb(78, 97, 114);
+  background: #36465d;
   text-align: center;
   padding: 2em 0.2em;
 
@@ -55,7 +55,7 @@ header h2 {
 .content-subhead {
   margin: 20px 0;
   font-weight: bold;
-  color: rgb(131, 146, 159);
+  color: #36465d;
   font-family: "Playfair Display", serif;
   font-size: 48px;
   font-style: italic;
@@ -87,8 +87,8 @@ header h2 {
 nav {
   position: sticky;
   top: 0;
-  background: rgb(45, 57, 68);
-  border-top: 4px solid rgb(78, 97, 114);
+  background: #202e3d;
+  border-top: 4px solid #36465d;
   box-sizing: border-box;
   width: 100%;
   box-shadow: 0 10px 20px -5px rgba(115, 115, 115, 0.75);
@@ -116,7 +116,7 @@ nav a {
   color: inherit;
 }
 .selected {
-  background: rgb(78, 97, 114);
+  background: #36465d;
   color: white;
 }
 
