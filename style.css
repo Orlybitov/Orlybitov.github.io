@@ -73,12 +73,6 @@ header h2 {
   float: right;
 }
 
-@media (max-width: 600px) {
-  #profile-container {
-    float: none;
-  }
-}
-
 nav {
   position: sticky;
   top: 0;
@@ -126,4 +120,12 @@ p {
 h2 {
   padding-top: 60px;
   margin-top: -60px;
+}
+@media (max-width: 600px) {
+  #profile-container {
+    float: none;
+  }
+  h2 {
+    text-align: center;
+  }
 }
